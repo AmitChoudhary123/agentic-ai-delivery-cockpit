@@ -1,0 +1,5 @@
+use_case,business_value,feasibility,risk,owner
+Claims automation,92,78,35,Operations
+Contract review copilot,75,72,48,Legal
+Autonomous pricing agent,88,45,80,Revenue Management
+Service desk agent,68,82,28,IT
